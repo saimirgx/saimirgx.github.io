@@ -20,7 +20,7 @@ author: Sara
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
 
 ################
 # --- Logo --- #
