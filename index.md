@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi
+title: Hi, Devs!
 subtitle: 回收苹果企业开发者账号
 ---
 
